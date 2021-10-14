@@ -11,4 +11,4 @@ See Wilson archives: http://anaphoria.com/wilson.html
 
 3-gap theorem: https://en.wikipedia.org/wiki/Three-gap_theorem
 
-See also Diphantine triplets and Peirce series (I don't have found good references yet).
+See also Diophantine triplets and Peirce series (I don't have found good references yet).
