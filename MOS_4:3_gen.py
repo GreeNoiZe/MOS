@@ -23,4 +23,4 @@ sc0s = sorted(sc0) + [2]
 print("MOS ratios sorted :", sc0s)
 
 intervals = [sc0s[i+1]/sc0s[i] for i in range(len(sc0s) - 1)]
-print("Succesive ratios of the MOS scale :", intervals)
+print("Successive ratios of the MOS scale :", intervals)
